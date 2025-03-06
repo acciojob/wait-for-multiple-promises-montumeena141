@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
